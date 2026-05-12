@@ -1,7 +1,7 @@
 # TLSDetectionMLModel
 Machine learning models trained and tested on identifying malicious vs benign network traffic through analyzing the TLS ClientHello message that is produced during a 4-way handshake.
 
-# DataSet
+# Dataset
 The dataset that we used to train the model comes from the Avast Aposemat IoT-23 dataset. To download the dataset, follow the instructions below:
 
 1. Access site at https://www.stratosphereips.org/datasets-iot23
